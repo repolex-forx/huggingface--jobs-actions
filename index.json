@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "jobs-actions",
+  "versions": [
+    {
+      "commit": "10aa428cce8fa058291d2c6bccc7d0025863c689",
+      "tag": "",
+      "parsed_at": "2026-11-07T22:54:33.976615+00:00"
+    }
+  ]
+}
